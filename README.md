@@ -1,7 +1,7 @@
 # Testing Java with JUnit 5
 
 ## Setting up
-First of all, initialize a new gradle project using (on Windows):
+First of all, fork this repository and clone it. Then initialize a new gradle project using (on Windows):
 ```
 .\gradlew.bat init --dsl kotlin --project-name sea8-excercises-junit5-getting-started --test-framework junit-jupiter --type java-application --package com.wildcodeschool.sea8.exercise.junit_jupiter_getting_started
 ```
